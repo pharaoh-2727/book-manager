@@ -1,0 +1,50 @@
+[
+    {
+        "title": "三体",
+        "author": "刘慈欣",
+        "year": 2008,
+        "price": 50.0
+    },
+    {
+        "title": "三体Ⅱ·黑暗森林",
+        "author": "刘慈欣",
+        "year": 2008,
+        "price": 55.0
+    },
+    {
+        "title": "三体Ⅲ·死神永生",
+        "author": "刘慈欣",
+        "year": 2010,
+        "price": 60.0
+    },
+    {
+        "title": "球状闪电",
+        "author": "刘慈欣",
+        "year": 2004,
+        "price": 40.0
+    },
+    {
+        "title": "流浪地球",
+        "author": "刘慈欣",
+        "year": 2000,
+        "price": 45.0
+    },
+    {
+        "title": "活着",
+        "author": "余华",
+        "year": 1993,
+        "price": 35.0
+    },
+    {
+        "title": "平凡的世界",
+        "author": "路遥",
+        "year": 1986,
+        "price": 68.0
+    },
+    {
+        "title": "围城",
+        "author": "钱钟书",
+        "year": 1947,
+        "price": 42.0
+    }
+]

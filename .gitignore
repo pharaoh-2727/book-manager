@@ -1,0 +1,21 @@
+# ===== 环境与密钥 =====
+.env
+*.env
+
+# ===== 虚拟环境 =====
+.venv/
+venv/
+env/
+
+# ===== Python 缓存 =====
+__pycache__/
+*.pyc
+*.pyo
+
+# ===== IDE / 编辑器 =====
+.idea/
+.vscode/
+
+# ===== 系统 =====
+.DS_Store
+Thumbs.db
